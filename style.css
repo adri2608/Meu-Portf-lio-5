@@ -1,0 +1,26 @@
+@import url('https:')
+
+:root {
+    --cor-principal: 
+    --cor-secundaria:
+    --cor-destaque:
+}
+
+body {
+    font-family:  'Chakra Petch',sans-serif;
+    color: var(#-cor-principal);
+    background-color: black;
+}
+
+h1, h2, h5 {
+    color: #cor-destaque;
+    color: var(#cor-secundaria);
+    font-weight:700;
+}
+
+.lead, .btn-link {
+    color: var(#cor-destaque);
+    font-weight: 700;
+}
+
+a, .btd
